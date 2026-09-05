@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+reports/ip_enrichment.json
+.abuseipdb_key
